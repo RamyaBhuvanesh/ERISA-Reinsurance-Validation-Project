@@ -1,0 +1,9 @@
+ERISA-Reinsurance-Validation-Project/
+├── tests/           # Contains automated test scripts
+├── configs/         # Configuration files for test environments
+├── data/            # Test data files
+├── reports/         # Test execution reports
+├── docs/            # Project documentation
+├── Jenkinsfile      # CI/CD pipeline configuration for Jenkins
+├── requirements.txt # List of dependencies
+└── README.md        # Project overview and instructions
